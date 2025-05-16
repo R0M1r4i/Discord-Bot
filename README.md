@@ -9,7 +9,7 @@ Para ejecutar este bot, necesitas tener instaladas las siguientes librerías de 
 - discord.py
 - yt-dlp
 - asyncio
--ffmepg
+- ffmepg
 
 Puedes instalarlas usando pip:
 
